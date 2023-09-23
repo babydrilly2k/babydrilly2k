@@ -14,4 +14,7 @@
 - dsc.gg/comingsoon
 ###### Facebook
 [Click](https://www.facebook.com/profile.php?id=100089893784383)
+###### Minecraft
+- DeltaGamesYT48 En Bedrock
+- Desarrollador de plugins PM2-5
 
