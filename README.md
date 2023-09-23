@@ -7,5 +7,5 @@
 **Desarrollador Backend**
 
 ## Mis lenguajes favoritos
-![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript) ![Html](https://img.shields.io/badge/HTML-html?style=for-the-badge&logo=html)
+![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
