@@ -14,7 +14,7 @@
 
 ###### Discord
 - @deltagamesyt
-- dsc.gg/comingsoon
+- [CodeSpark (Server de Discord)](https://discord.gg/htyNZJNXPU)
 ###### Facebook
 [Click](https://www.facebook.com/profile.php?id=100089893784383)
 ###### Minecraft
