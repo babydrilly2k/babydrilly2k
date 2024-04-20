@@ -31,5 +31,4 @@ Python Medio
 - DeltaGamesYT48 En Bedrock
 - Desarrollador de plugins PM2-5
 
-![YT](https://badgen.net/
-badge/YOUTUBE/@deltagames115/FF0000?icon=youtube)
+![YT](https://badgen.net/badge/YOUTUBE/@deltagames115/FF0000?icon=youtube)
