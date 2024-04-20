@@ -25,6 +25,7 @@ Python Medio
 ###### Discord
 - @deltagamesyt
 - [CodeSpark (Server de Discord)](https://discord.gg/htyNZJNXPU)
+[![Comunidad CodeSpark](https://img.shields.io/discord/591914197219016707.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/htyNZJNXPU)
 ###### Facebook
 [Click](https://www.facebook.com/profile.php?id=100089893784383)
 ###### Minecraft
