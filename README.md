@@ -1,5 +1,5 @@
 # DeltaGames
-![Seguidores](https://img.shields.io/github/followers/deltagamesyt.svg?style=social&label=Follow&maxAge=2592000)
+
 
 <!--
 **DeltaGamesYT/DeltaGamesYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
