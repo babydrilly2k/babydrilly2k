@@ -16,20 +16,13 @@ babydrill estuvo aqui
 
 ## Experiencia
 #### Sitios Web
-HTML Avanzado, CSS Avanzado, PHP Avanzado, JavaScript Basico
-#### Bots de Discord
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-#### Otros Lenguajes
-Python Medio
+HTML Avanzado, CSS Avanzado, PHP medio, JavaScript Basico
 
+#### Otros Lenguajes
+- Python Medio
+- perl
+  
 ## Contacto
 
 ###### Discord
-- @deltagamesyt
-- [CodeSpark (Server de Discord)](https://discord.gg/htyNZJNXPU)
-###### Facebook
-[Click](https://www.facebook.com/profile.php?id=100089893784383)
-###### Minecraft
-- DeltaGamesYT48 En Bedrock
-- Desarrollador de plugins PM2-5
-
+- [@mrmarmote](#)
