@@ -16,13 +16,9 @@ babydrill estuvo aqui
 
 ## Experiencia
 #### Sitios Web
-HTML Avanzado, CSS Avanzado, PHP medio, JavaScript Basico
+HTML Avanzado, CSS Avanzado, PHP medio
 
 #### Otros Lenguajes
-- Python Medio
-- perl
-  
-## Contacto
-
-###### Discord
-- [@mrmarmote](#)
+- VB.net
+- C#
+- Ruby
